@@ -2,7 +2,11 @@
 
 Production web platform for the **V40 Valladolid Women's Padel League**, serving **100+ active players**. 
 
-> ⚠️ Client software in production. This repository is published as a portfolio showcase, code is available on request. Live app used by the league; credentials and infrastructure secrets are injected via environment variables and are **NOT*^ part of this repo.
+
+> ### ℹ️ Why this repo only contains a README
+> This is client software currently running in production for a real league with active users. To protect the client and its users, the source is kept private and this repository stands as a portfolio showcase of the work rather than a public codebase.
+>
+> The full source code is available on request, reach out (see profile) and I'm happy to walk through it or grant access. All infrastructure secrets (DB credentials, JWT and VAPID keys) are injected via environment variables and never live in the code.
 
 ---
 
